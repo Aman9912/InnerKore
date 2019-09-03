@@ -1,0 +1,2 @@
+# InnerKore
+Intership
